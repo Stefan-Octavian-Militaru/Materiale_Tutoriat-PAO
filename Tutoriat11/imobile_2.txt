@@ -1,0 +1,2 @@
+Casa,5,98,Bucuresti
+Apartament,4,62.8,Constanta
